@@ -1,10 +1,7 @@
 ---
-ref:polling_sensorAbhi
-name:Polling Sensor Api
-description:Polling Sensor Api For testing purpose.
-keywords:
-     - Api
-     - polling
-version:0.1.0
-auther: Abhishek Brahmachary
+ref: trainingpack
+name: training Pack
+description: for training purpose.
+version: 0.1.0
+author: Abhishek Brahmachary
 email: abhishek.brahmachhary@nihilentanalytics.com
